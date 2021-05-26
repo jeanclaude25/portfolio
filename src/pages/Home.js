@@ -1,7 +1,7 @@
 import React from 'react';
 import Navigation from "../components/Navigation";
 import Projects from '../components/Projects';
-import Lang from '../components/Lang';
+// import Lang from '../components/Lang';
 import Profile1 from '../components/Profile1';
 // import Footer from '../components/Footer';
 
