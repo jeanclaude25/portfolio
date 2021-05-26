@@ -1,0 +1,21 @@
+.navigation{
+    margin: 26px 0;
+    display: flex;
+
+    a{
+        margin: 10px;
+        padding: 10px;
+        position: relative;
+    }
+    .nav-active{
+        &::after{
+            content:"";
+            height: 2px;
+            background: $color-4;
+            display:flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+
+}

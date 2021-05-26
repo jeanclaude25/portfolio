@@ -1,0 +1,1473 @@
+[
+	{
+	"img":"https://www.jeanclaudestephane.com/projects/3d_render/1-pompe/12i.jpg",
+	"name":"Shoes",
+	"categorie":"3d render",
+	"description":"",
+	"technique":"",
+	"pro":false,
+	"date":{
+			"day":"01",
+			"month":"01",
+			"year":"2013"
+			},
+	"keywords":"all-aspect modelling texturing rendering shoes 3d",
+	"software":{
+				"modelling":"blender 2.6x",
+				"texturing":"blender 2.6x",
+				"post-processing":"Photoshop cs2"
+				},
+	"infos":{
+			"size":"",
+			"vertex":"",
+			"triangle":"",
+			"renderTime":"",
+			"renderMachine":"",
+			"resolution":"",
+			"renderEngine":"cycles"
+			}
+	},
+	
+	{
+	"img":"https://www.jeanclaudestephane.com/projects/3d_render/2-archi/Merci_france_out.jpg",
+	"name":"Desk",
+	"categorie":"3d render",
+	"description":"",
+	"technique":"",
+	"pro":false,
+	"date":{
+			"day":"01",
+			"month":"01",
+			"year":"2013"
+			},
+	"keywords":"all-aspect modelling texturing rendering interior 3d",
+	"software":{
+				"modelling":"blender 2.6x",
+				"texturing":"blender 2.6x",
+				"post-processing":"Photoshop cs2"
+				},
+	"infos":{
+			"size":"",
+			"vertex":"",
+			"triangle":"",
+			"render_time":"",
+			"render_machine":"",
+			"resolution":"",
+			"renderEngine":"cycles"
+			}
+	},
+
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/3d_render/3-beauty/beauty coconut.jpg",
+		"name":"Cosmetic",
+		"categorie":"3d render",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"01",
+				"month":"01",
+				"year":"2013"
+				},
+		"software":{
+					"modelling":"blender 2.6x",
+					"texturing":"blender 2.6x",
+					"post-processing":"Photoshop cs2"
+					},
+		"keywords":"all-aspect modelling texturing rendering cosmetics 3d",
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":"cycles"
+				}
+	},
+
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/3d_render/5-planete/PLANETE.jpg",
+		"name":"planet",
+		"categorie":"3d render",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"01",
+				"month":"01",
+				"year":"2013"
+				},
+		"keywords":"all-aspect modelling texturing rendering planet 3d",
+		"software":{
+					"modelling":"blender 2.6x",
+					"texturing":"blender 2.6x",
+					"post-processing":"Photoshop cs2"
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":"cycles"
+				}
+	},
+
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/3d_render/7-plage/dune_composited.jpg",
+		"name":"beach",
+		"categorie":"3d render",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"01",
+				"month":"01",
+				"year":"2014"
+				},
+		"keywords":"particle simulation water dynamicpaint all-aspect modelling texturing rendering beach realistic 3d",
+		"software":{
+					"modelling":"blender 2.6x",
+					"texturing":"blender 2.6x",
+					"post-processing":"Photoshop cs2"
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":"cycles"
+				}
+	},
+
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/3d_render/chair/color_chair_2.jpg",
+		"name":"chair",
+		"pro":false,
+		"categorie":"3d render",
+		"description":"",
+		"technique":"",
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2017"
+				},
+		"keywords":"fauteuil siege rouge baroque all-aspect modelling texturing rendering chair unity 3d",
+		"software":{
+					"modelling":"blender 2.7x",
+					"texturing":"blender 2.7x",
+					"post-processing":"Photoshop cs6"
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":"cycles"
+				}
+	},
+
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/3d_render/house/stephane-jeanclaude-0465.jpg",
+		"name":"house",
+		"categorie":"3d render",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"23",
+				"month":"05",
+				"year":"2016"
+				},
+		"keywords":"scripting all-aspect modelling texturing rendering house architecture 3d",
+		"software":{
+					"modelling":"blender 2.7x",
+					"texturing":"blender 2.7x",
+					"post-processing":"Photoshop cs6"
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":"cycles"
+				}
+	},
+					
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/3d_render/impika/icp2.jpg",
+		"name":"printer",
+		"categorie":"3d render",
+		"description":"",
+		"technique":"",
+		"pro":true,
+		"date":{
+				"day":"29",
+				"month":"06",
+				"year":"2018"
+				},
+		"keywords":"scripting texturing rendering realistic industrial 3d",
+		"software":{
+					"modelling":"blender 2.7x",
+					"texturing":"blender 2.7x",
+					"post-processing":"Blender"
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":"cycles"
+				}
+	},
+
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/3d_render/roller/roller_color_2_2.jpg",
+		"name":"roller",
+		"categorie":"3d render",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2017"
+				},
+		"keywords":"all-aspect modelling texturing rendering sport roller 3d",
+		"software":{
+					"modelling":"blender 2.7x",
+					"texturing":"blender 2.7x",
+					"post-processing":"Blender"
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":"cycles"
+				}
+	},
+
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/3d_render/fan/stephane-jeanclaude-0130.jpg",
+		"name":"fan design",
+		"categorie":"3d render",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2019"
+				},
+		"keywords":"all-aspect modelling texturing rendering interior realistic 3d",
+		"software":{
+					"modelling":"blender 2.7x",
+					"texturing":"blender 2.7x",
+					"post-processing":"Blender"
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":"cycles"
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/3d_render/vehicles/preview.jpg",
+		"name":"vehicles",
+		"categorie":"3d render",
+		"description":"",
+		"technique":"",
+		"pro":true,
+		"date":{
+				"day":"15",
+				"month":"02",
+				"year":"2017"
+				},
+		"keywords":"modelling rendering vehicles car cell-shading film 3d",
+		"software":{
+					"modelling":"blender 2.7x",
+					"texturing":"blender 2.7x",
+					"post-processing":"Blender"
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":"Blender Internal"
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/couverture/couverture.jpg",
+		"name":"Street Workout",
+		"categorie":"socialCover",
+		"description":"",
+		"technique":"",
+		"pro":true,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2017"
+				},
+		"keywords":"all-aspect modelling texturing rendering animation sport banniere socialcover 3d",
+		"software":{
+					"modelling":"blender 2.7x",
+					"texturing":"blender 2.7x",
+					"post-processing":"Blender"
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":"cycles"
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/draw/lion/le_lion.jpg",
+		"name":"lion",
+		"categorie":"2d anim",
+		"description":"",
+		"technique":"",
+		"pro":true,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2017"
+				},
+		"keywords":"anime 2d animation anim",
+		"software":{
+					"modelling":"blender 2.7x",
+					"texturing":"blender 2.7x",
+					"post-processing":"Blender"
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":"Blender Internal"
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/photo/photomontage/mcfly.jpg",
+		"name":"ride",
+		"categorie":"photoMontage",
+		"description":"Sur ce projet, il fallait modifier le cadrage pour avoir le sol et le ciel sur la même photo. J'ai réalisé un cam mapping car les deux images sources n'avait pas le même angle et c'était plus simple de faire une clean plate et de remettre par la suite les poteaux en premier plan. Le ciel est procédural et peut être animé.",
+		"technique":"cam map post prod",
+		"pro":false,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2019"
+				},
+		"software":{
+					"modelling":"blender 2.7x",
+					"texturing":"blender 2.7x",
+					"post-processing":"Blender"
+					},
+		"keywords":"photo montage camera-mapping sport",
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":"cycles"
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/2D/Alpille.jpg",
+		"name":"Alpille",
+		"categorie":"Poster",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2014"
+				},
+		"keywords":"affiche poster print",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/2D/CdV-Hair 2000-B.png",
+		"name":"Hair",
+		"categorie":"Poster",
+		"description":"",
+		"technique":"",
+		"pro":true,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2014"
+				},
+		"keywords":"affiche poster print",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/2D/CdVoeuxWTC-2014.png",
+		"name":"World Trade Center",
+		"categorie":"Greeting card",
+		"description":"",
+		"technique":"",
+		"pro":true,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2014"
+				},
+		"keywords":"carte greeting card voeux print",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/2D/Fidbac-131213-2.png",
+		"name":"Fidbac",
+		"categorie":"pictogram",
+		"description":"",
+		"technique":"",
+		"pro":true,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2014"
+				},
+		"keywords":"pictogramme pictogram print",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/2D/objet dyna- choc-1.jpg",
+		"name":"Salon du chocolat",
+		"categorie":"Poster",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2014"
+				},
+		"keywords":"affiche poster print",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/2D/rodolphe/RM2.jpg",
+		"name":"Rodolphe Mazoyer",
+		"categorie":"Poster",
+		"description":"",
+		"technique":"",
+		"pro":true,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2014"
+				},
+		"keywords":"affiche poster print",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/2D/UnePAR2014-Propal06.jpg",
+		"name":"Plans d'actions régionales",
+		"categorie":"Poster",
+		"description":"",
+		"technique":"",
+		"pro":true,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2014"
+				},
+		"keywords":"affiche poster print",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/affiches/1-affiche decath/1-affiche decathlon.jpg",
+		"name":"Decathlon",
+		"categorie":"Poster",
+		"description":"",
+		"technique":"",
+		"pro":true,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2014"
+				},
+		"keywords":"affiche poster print sport decathlon",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/affiches/2-LFM/lfm_photopop.jpg",
+		"name":"Laurent Favre Mot",
+		"categorie":"Poster",
+		"description":"",
+		"technique":"",
+		"pro":true,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2014"
+				},
+		"keywords":"affiche poster print",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/affiches/5-udac/5-Affiche A4.jpg",
+		"name":"Udac 66",
+		"categorie":"Poster",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2014"
+				},
+		"keywords":"affiche poster print",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/affiches/6-camargue/6-camargue.jpg",
+		"name":"camargue",
+		"categorie":"Poster",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2014"
+				},
+		"keywords":"affiche poster flyers print",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/affiches/9-etiquette/compo.jpg",
+		"name":"confiture",
+		"categorie":"Poster",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2014"
+				},
+		"keywords":"packaging affiche poster print",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/cartes/ambiance2-full.jpg",
+		"name":"cheque cadeau",
+		"categorie":"Gift card",
+		"description":"",
+		"technique":"",
+		"pro":true,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2014"
+				},
+		"keywords":"carte cadeaux cheque gift card print",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/cartes/fruitpop.jpg",
+		"name":"Fruit et légumes",
+		"categorie":"Poster",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2013"
+				},
+		"keywords":"affiche poster print",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/terea/presentoir2.png",
+		"name":"Terea",
+		"categorie":"Greeting card",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2014"
+				},
+		"keywords":"carte voeux greeting card print",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/enseigne/jamila-full.jpg",
+		"name":"Jamila assurance",
+		"categorie":"Enseigne",
+		"description":"",
+		"technique":"",
+		"pro":true,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2014"
+				},
+		"keywords":"enseigne print",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/identity/flashgame/2.png",
+		"name":"Flashgame66",
+		"categorie":"Identity",
+		"description":"",
+		"technique":"",
+		"pro":true,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2015"
+				},
+		"keywords":"identite identity logo interface 3d print web",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/identity/meteo France/METEO-FRANCE.jpg",
+		"name":"Nuclear Meteo",
+		"categorie":"Website interface",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2014"
+				},
+		"keywords":"interface web website identite",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/print/cegelec.jpg",
+		"name":"Cegelec",
+		"categorie":"Synoptique",
+		"description":"",
+		"technique":"",
+		"pro":true,
+		"date":{
+				"day":"17",
+				"month":"09",
+				"year":"2012"
+				},
+		"keywords":"synoptique application",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/game/bot runner/visuel/3.jpg",
+		"name":"Bot runner",
+		"categorie":"Game",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"16",
+				"month":"10",
+				"year":"2013"
+				},
+		"keywords":"game",
+		"software":{
+					"modelling":"Blender",
+					"texturing":"Blender",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/videos/drone/drone.jpg",
+		"name":"Drone edit",
+		"categorie":"Video",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"18",
+				"month":"04",
+				"year":"2017"
+				},
+		"keywords":"video drone edit filming",
+		"software":{
+					"modelling":"Blender",
+					"texturing":"Blender",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/videos/logos/flash.jpg",
+		"name":"Flashgame66",
+		"categorie":"Logo anim",
+		"description":"",
+		"technique":"",
+		"pro":true,
+		"date":{
+				"day":"20",
+				"month":"01",
+				"year":"2014"
+				},
+		"keywords":"animation anim 3d logo flashgame66",
+		"software":{
+					"modelling":"Blender",
+					"texturing":"Blender",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/videos/roller/summer_edit.jpg",
+		"name":"roller summer edit",
+		"categorie":"video",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"24",
+				"month":"10",
+				"year":"2012"
+				},
+		"keywords":"video sport roller edit montage",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/videos/roller/winter_edit.jpg",
+		"name":"roller winter edit",
+		"categorie":"video",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"15",
+				"month":"04",
+				"year":"2013"
+				},
+		"keywords":"video sport roller edit montage",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/videos/showreel/Demoreel_2013.jpg",
+		"name":"showreel 2013",
+		"categorie":"showreel",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"31",
+				"month":"03",
+				"year":"2014"
+				},
+		"keywords":"video showreel demoreel",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/webgl/0/vignette.jpg",
+		"name":"Wine Label editor",
+		"categorie":"interactive web app",
+		"link":"https://www.jeanclaudestephane.com/scene_webgl/0/index.html",
+		"description":"",
+		"technique":"webgl",
+		"pro":false,
+		"date":{
+				"day":"09",
+				"month":"01",
+				"year":"2020"
+				},
+		"keywords":"3d interactive webgl web b4w application vin wine",
+		"software":{
+					"modelling":"blender",
+					"texturing":"blender",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/webgl/1/vignette.jpg",
+		"name":"Pompe a chaleur",
+		"categorie":"interactive web app",
+		"description":"",
+		"technique":"webgl",
+		"link":"https://www.jeanclaudestephane.com/scene_webgl/1/index.html",
+		"pro":false,
+		"date":{
+				"day":"09",
+				"month":"01",
+				"year":"2015"
+				},
+		"keywords":"3d interactive webgl web b4w application waterpump pump",
+		"software":{
+					"modelling":"blender",
+					"texturing":"blender",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/webgl/2/vignette.jpg",
+		"name":"Logo interactif",
+		"categorie":"interactive web logo",
+		"description":"",
+		"technique":"webgl",
+		"link":"https://www.jeanclaudestephane.com/scene_webgl/2/index.html",
+		"pro":false,
+		"date":{
+				"day":"09",
+				"month":"01",
+				"year":"2018"
+				},
+		"keywords":"3d interactive webgl web b4w application logo bigbro gaming",
+		"software":{
+					"modelling":"blender",
+					"texturing":"blender",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/webgl/3/vignette.jpg",
+		"name":"Cao Object",
+		"categorie":"interactive web app",
+		"description":"",
+		"technique":"webgl",
+		"link":"https://www.jeanclaudestephane.com/scene_webgl/3/index.html",
+		"pro":false,
+		"date":{
+				"day":"09",
+				"month":"01",
+				"year":"2021"
+				},
+		"keywords":"interactive webgl web b4w application cao object 3d",
+		"software":{
+					"modelling":"blender",
+					"texturing":"blender",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/webgl/4/vignette.jpg",
+		"name":"Nuward",
+		"categorie":"draw web app",
+		"description":"",
+		"technique":"webgl",
+		"link":"https://www.jeanclaudestephane.com/scene_webgl/4/index.html",
+		"pro":false,
+		"date":{
+				"day":"09",
+				"month":"01",
+				"year":"2020"
+				},
+		"keywords":"interactive web application",
+		"software":{
+					"modelling":"blender",
+					"texturing":"blender",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/webgl/5/vignette.jpg",
+		"name":"Audi",
+		"categorie":"interactive web app",
+		"link":"https://www.jeanclaudestephane.com/scene_webgl/5/index.html",
+		"description":"",
+		"technique":"webgl",
+		"pro":false,
+		"date":{
+				"day":"09",
+				"month":"01",
+				"year":"2021"
+				},
+		"keywords":"interactive web application car audi webgl b4w",
+		"software":{
+					"modelling":"blender",
+					"texturing":"blender",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/videos/sport/selection_plate_5.jpg",
+		"name":"Street Workout contest",
+		"categorie":"video",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"09",
+				"month":"01",
+				"year":"2018"
+				},
+		"keywords":"video sport street workout montage",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/videos/roller/cnr_edit.jpg",
+		"name":"clic n roll edit",
+		"categorie":"video",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"09",
+				"month":"01",
+				"year":"2018"
+				},
+		"keywords":"video roller montage edit",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/videos/roller/charly_edit_2014.jpg",
+		"name":"roller edit",
+		"categorie":"video",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"09",
+				"month":"01",
+				"year":"2014"
+				},
+		"keywords":"video roller montage edit",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/website/beauty/preview.jpg",
+		"name":"Salon de coiffure",
+		"categorie":"Website interface",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"09",
+				"month":"01",
+				"year":"2014"
+				},
+		"keywords":"web interface html css website",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/website/nouvelle version/preview.jpg",
+		"name":"Galerie d'artiste",
+		"categorie":"Website interface",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"09",
+				"month":"01",
+				"year":"2015"
+				},
+		"keywords":"web interface html css js javaScript vanillajs website",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/website/Site_BJM3D/preview.jpg",
+		"name":"Portfolio",
+		"categorie":"WebSite interface",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"09",
+				"month":"01",
+				"year":"2018"
+				},
+		"keywords":"web interface html css js javaScript vanillajs website",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"img":"https://www.jeanclaudestephane.com/projects/website/NR.jpg",
+		"name":"Nouveau riche music",
+		"categorie":"Website interface",
+		"description":"",
+		"technique":"",
+		"pro":false,
+		"date":{
+				"day":"09",
+				"month":"01",
+				"year":"2014"
+				},
+		"keywords":"web interface html css js javaScript vanillajs website",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	}
+]
