@@ -2,6 +2,7 @@ import React, {useEffect, useState} from 'react';
 //import axios from "axios";
 import Preview from './Preview';
 import all from '../assets/all.json';
+import Description from './Description';
 
 const Projects = () => {
     const [data, setData] = useState([]);
@@ -10,6 +11,8 @@ const Projects = () => {
     const [sizeValue, setSizeValue] = useState(100);
     const [selectedRadio, setSelectedRadio] = useState('');
     const radios = ['3d','interactive','print','animation','realistic','video','web']
+
+    const [selectedProjects, setSelectedProjects] = useState('');
 
     useEffect(() =>{
         if(playOnce){
@@ -38,6 +41,7 @@ const Projects = () => {
 
     return (
         <div className="projects">
+            <Description sortedData={sortedData}/>
             
               <div className="sort-container">
             {/* <input type="range" min="75" max="300" value={sizeValue} 
@@ -65,9 +69,9 @@ const Projects = () => {
                 .filter((projects) => projects.keywords.includes
                 (selectedRadio))
                 .map((projects) => (
-                    <Preview projects={projects} css_size={sizeValue} key={projects.img}/>
+                    <Preview projects={projects} css_size={sizeValue} key={projects.img} />
                 ))}
-
+                
             </ul>
 
         </div>

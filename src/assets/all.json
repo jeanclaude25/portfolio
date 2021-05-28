@@ -1,6 +1,6 @@
 [
 	{
-	"img":"https://www.jeanclaudestephane.com/projects/3d_render/1-pompe/12i.jpg",
+	"img":"https://www.jeanclaudestephane.com/projects/3d_render/1-pompe/preview.jpg",
 	"name":"Shoes",
 	"categorie":"3d render",
 	"description":"",
@@ -29,7 +29,7 @@
 	},
 	
 	{
-	"img":"https://www.jeanclaudestephane.com/projects/3d_render/2-archi/Merci_france_out.jpg",
+	"img":"https://www.jeanclaudestephane.com/projects/3d_render/2-archi/preview.jpg",
 	"name":"Desk",
 	"categorie":"3d render",
 	"description":"",
@@ -58,7 +58,7 @@
 	},
 
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/3d_render/3-beauty/beauty coconut.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/3d_render/3-beauty/preview.jpg",
 		"name":"Cosmetic",
 		"categorie":"3d render",
 		"description":"",
@@ -87,7 +87,7 @@
 	},
 
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/3d_render/5-planete/PLANETE.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/3d_render/5-planete/preview.jpg",
 		"name":"planet",
 		"categorie":"3d render",
 		"description":"",
@@ -174,7 +174,7 @@
 	},
 
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/3d_render/house/stephane-jeanclaude-0465.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/3d_render/house/preview.jpg",
 		"name":"house",
 		"categorie":"3d render",
 		"description":"",
@@ -203,7 +203,7 @@
 	},
 					
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/3d_render/impika/icp2.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/3d_render/impika/preview.jpg",
 		"name":"printer",
 		"categorie":"3d render",
 		"description":"",
@@ -317,7 +317,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/couverture/couverture.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/couverture/preview.jpg",
 		"name":"Street Workout",
 		"categorie":"socialCover",
 		"description":"",
@@ -345,7 +345,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/draw/lion/le_lion.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/draw/lion/preview.jpg",
 		"name":"lion",
 		"categorie":"2d anim",
 		"description":"",
@@ -401,7 +401,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/print/2D/Alpille.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/print/2D/Alpille_preview.jpg",
 		"name":"Alpille",
 		"categorie":"Poster",
 		"description":"",
@@ -457,7 +457,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/print/2D/CdVoeuxWTC-2014.png",
+		"img":"https://www.jeanclaudestephane.com/projects/print/2D/CdV_preview.jpg",
 		"name":"World Trade Center",
 		"categorie":"Greeting card",
 		"description":"",
@@ -485,7 +485,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/print/2D/Fidbac-131213-2.png",
+		"img":"https://www.jeanclaudestephane.com/projects/print/2D/Fidbac_preview.png",
 		"name":"Fidbac",
 		"categorie":"pictogram",
 		"description":"",
@@ -513,7 +513,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/print/2D/objet dyna- choc-1.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/print/2D/choco_preview.jpg",
 		"name":"Salon du chocolat",
 		"categorie":"Poster",
 		"description":"",
@@ -541,7 +541,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/print/2D/rodolphe/RM2.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/print/2D/rodolphe/preview.jpg",
 		"name":"Rodolphe Mazoyer",
 		"categorie":"Poster",
 		"description":"",
@@ -569,7 +569,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/print/2D/UnePAR2014-Propal06.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/print/2D/propal_preview.jpg",
 		"name":"Plans d'actions régionales",
 		"categorie":"Poster",
 		"description":"",
@@ -597,7 +597,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/print/affiches/1-affiche decath/1-affiche decathlon.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/print/affiches/1-affiche decath/preview.jpg",
 		"name":"Decathlon",
 		"categorie":"Poster",
 		"description":"",
@@ -625,7 +625,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/print/affiches/2-LFM/lfm_photopop.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/print/affiches/2-LFM/lfm_photo.jpg",
 		"name":"Laurent Favre Mot",
 		"categorie":"Poster",
 		"description":"",
@@ -653,7 +653,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/print/affiches/5-udac/5-Affiche A4.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/print/affiches/5-udac/preview.jpg",
 		"name":"Udac 66",
 		"categorie":"Poster",
 		"description":"",
@@ -681,7 +681,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/print/affiches/6-camargue/6-camargue.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/print/affiches/6-camargue/preview.jpg",
 		"name":"camargue",
 		"categorie":"Poster",
 		"description":"",
@@ -709,7 +709,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/print/affiches/9-etiquette/compo.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/print/affiches/9-etiquette/preview.jpg",
 		"name":"confiture",
 		"categorie":"Poster",
 		"description":"",
@@ -793,7 +793,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/print/terea/presentoir2.png",
+		"img":"https://www.jeanclaudestephane.com/projects/print/terea/preview.png",
 		"name":"Terea",
 		"categorie":"Greeting card",
 		"description":"",
@@ -849,7 +849,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/print/identity/flashgame/2.png",
+		"img":"https://www.jeanclaudestephane.com/projects/print/identity/flashgame/preview.png",
 		"name":"Flashgame66",
 		"categorie":"Identity",
 		"description":"",
@@ -877,7 +877,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/print/identity/meteo France/METEO-FRANCE.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/print/identity/meteo France/preview.jpg",
 		"name":"Nuclear Meteo",
 		"categorie":"Website interface",
 		"description":"",
@@ -961,7 +961,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/videos/drone/drone.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/videos/drone/preview.jpg",
 		"name":"Drone edit",
 		"categorie":"Video",
 		"description":"",
@@ -1017,7 +1017,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/videos/roller/summer_edit.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/videos/roller/sum_preview.jpg",
 		"name":"roller summer edit",
 		"categorie":"video",
 		"description":"",
@@ -1275,7 +1275,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/videos/sport/selection_plate_5.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/videos/sport/preview.jpg",
 		"name":"Street Workout contest",
 		"categorie":"video",
 		"description":"",
@@ -1303,7 +1303,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/videos/roller/cnr_edit.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/videos/roller/cnr_edit_preview.jpg",
 		"name":"clic n roll edit",
 		"categorie":"video",
 		"description":"",
@@ -1331,7 +1331,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/videos/roller/charly_edit_2014.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/videos/roller/edit_2014_preview.jpg",
 		"name":"roller edit",
 		"categorie":"video",
 		"description":"",
@@ -1443,7 +1443,7 @@
 				}
 	},
 	{
-		"img":"https://www.jeanclaudestephane.com/projects/website/NR.jpg",
+		"img":"https://www.jeanclaudestephane.com/projects/website/NR_preview.jpg",
 		"name":"Nouveau riche music",
 		"categorie":"Website interface",
 		"description":"",

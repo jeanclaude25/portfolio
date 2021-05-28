@@ -7,12 +7,14 @@ const Preview = (props) => {
     //     return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
 
     // }
-
+    function elem_click(e){
+        console.log(e.target.value);
+    }
 
     return (
         <li className="preview" style={{height: projects.css_size}}>
             <img src={projects.img} alt={projects.name} style={{height: projects.css_size}}/>
-            <div className="data-container" onClick={()=> {projects.link!=null && window.open(projects.link)} }  >
+            <div className="data-container" onClick={(e)=> {projects.link!=null && window.open(projects.link);elem_click(e)} }  >
                 <ul>
                     <li>{projects.name} </li>
                     <li>{projects.categorie} </li>
