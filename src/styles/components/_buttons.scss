@@ -1,0 +1,32 @@
+.button{
+    // background-color: rgb(141, 141, 141);
+    position:absolute;
+    border-radius: 5em;
+    // border-style: outset;
+    // border-width: 0.1em;
+    // border-color: aqua;
+    width:3em;
+    height:3em;
+    z-index: 25;
+
+    &:hover{
+        background-color: grey;
+    }
+    &:active{
+        // border-style: inset;
+        background-color: rgb(99, 99, 99);
+    }
+}
+#button_L{
+    left:2%;
+    top:50%;
+}
+#button_R{
+   right:2%;
+   top:50%;
+}
+#button_exit{
+    right:2%;
+    top:20%;
+    background-image: url("../../assets/icons/outline_highlight_off_black_24dp.png");
+}

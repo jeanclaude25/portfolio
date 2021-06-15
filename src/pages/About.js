@@ -1,12 +1,12 @@
 import React from 'react';
 import Navigation from '../components/Navigation';
-import Profile1 from '../components/Profile1';
+import Presentation from '../components/Presentation';
 
 const About = () => {
     return (
         <div>
             <Navigation/>
-            <Profile1/>
+            <Presentation/>
             <h1>A propos</h1>
             <br/>
             <p>

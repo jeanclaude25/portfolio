@@ -1,11 +1,15 @@
 .navigation{
-    margin: 26px 0;
+    margin: 50px 0;
     display: flex;
+    
 
     a{
         margin: 10px;
-        padding: 10px;
-        position: relative;
+        top:0;
+        left:20px;
+        // padding: 10px;
+        position: fixed;
+        
     }
     .nav-active{
         &::after{

@@ -4,7 +4,13 @@ import About from './pages/About';
 import Home from './pages/Home';
 import NotFound from './pages/NotFound';
 
+// const Route = ({ component: Component, roles, path }) => {
+//   roles = roles || [];
+//   return null
+// }
+
 const App = () => {
+  
   return (
     <BrowserRouter>
     <Switch>

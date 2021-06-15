@@ -8,7 +8,7 @@
 const mail="mailto:jeanclaude.stephane@hotmail.fr";
 //const facebook="https://www.facebook.com/jeanclaude.stephane.14/";
 
-const instagram="https://www.instagram.com/le_bon_graphisme/";
+const instagram="https://www.instagram.com/jeanclaude_stephane_3d/";
 //const dribbble="https://dribbble.com/JStephane";
 
 const google_plus="";

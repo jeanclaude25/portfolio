@@ -1,20 +1,41 @@
 .projects{
+    // height:100px;
+    // overflow: auto;
     .sort-container{
-        display:grid;
+        display:flex;
         // grid-template-columns: 20% 80%;
-        padding: 8px;
-        border-radius: 15px;
-        background: $color-3;
-        color: $color-1;
-        box-shadow: 0 2px 2px rgba(51,51,51,0.3);
+        // padding: 8px;
+        // border-radius: 15px;
+        // background: $color-3;
+        // color: $color-1;
+        // box-shadow: 0 2px 2px rgba(51,51,51,0.3);
+        z-index: 25;
+        position: absolute;
+        top:11%;
+        width:100%;
+        
 
         ul {
             display: flex;
             justify-content: space-around;
+            
+            
+            
 
             input[type="radio"]{
                 transform: translate(-5px, 1px);
+                
+                
             }
+        }
+        li{
+            background: $color-3;
+            padding: 8px;
+            margin-left: 8px;
+            color: $color-2;
+        }
+        li:hover{
+            background: $color-4;
         }
     }
     .cancel{
@@ -29,6 +50,7 @@
             border-radius: 10px;
             transition: 0.3s;
             cursor: pointer;
+            
 
             &:hover{
                 background: $color-1;
@@ -42,6 +64,32 @@
     .projects-list{
         display: flex;
         flex-wrap: wrap;
+        transition: all 1s;
+        width:100%;
+        // background: $color-3;
+        
     }
+    .projects-list.select{
+        animation-name: opening;
+        animation-duration: 1s;
+        overflow: auto;
+        animation-fill-mode: forwards;
+        // animation-delay: 2s;
+        // animation-iteration-count: 3;
+
+    }
+    .projects-list.deselect{
+        animation-name: opening;
+        animation-duration: 1s;
+        animation-direction: reverse;
+        animation-fill-mode: forwards;
+    }
+
+    @keyframes opening {
+        0%   {width:100%;}
+        25%  {width:100%;opacity:0;}
+        50%  {opacity:0;width:20%;height:500px;}
+        100% {opacity:1;width:20%;height:500px;}
+      }
 
 }
