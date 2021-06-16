@@ -37,6 +37,8 @@ const Projects = () => {
             case "infographiste": setSelectedRadio("print");
             //configurer l'interface avec le style dev project
             break;
+            default:console.log("default, all loading");
+                break;
         
         }
         return null
@@ -44,15 +46,16 @@ const Projects = () => {
         }
    
         
-     
+        premier_traitement();
     useEffect(() =>{
         if(playOnce){
             setData(all);
             //animer l'introduction
             setPlayOnce(false);
-            premier_traitement();
+            
            
         }
+        
 
             const sortedProjects = () => {
                 const projectsObj = Object.keys(data).map((i) => data[i]);
@@ -79,6 +82,8 @@ const Projects = () => {
      const project_list = document.getElementById("menu_projet");
      project_list.classList.remove('deselect');
      project_list.classList.add('select');
+     const cancel = document.getElementById("cancel");
+     cancel.classList.add('select');
      console.log("je viens de clicker sur un element");
     //   ReactDom.render(
     //       document.getElementById('app')
@@ -91,19 +96,21 @@ const Projects = () => {
         const project_list = document.getElementById("menu_projet");
         project_list.classList.remove('select');
         project_list.classList.add('deselect');
+        const cancel = document.getElementById("cancel");
+        cancel.classList.remove('select');
         //recupere la description
         setActiveElement(null);
      }
-     const press_on_left=()=>{
-         console.log("press on left button");
-         //rechercher dans la liste ou est l'active element
-         //le decrementer
-     }
-     const press_on_right=()=>{
-        console.log("press on right button");
-        //rechercher dans la liste ou est l'active element
-         //l'incrementer
-    }
+    //  const press_on_left=()=>{
+    //      console.log("press on left button");
+    //      //rechercher dans la liste ou est l'active element
+    //      //le decrementer
+    //  }
+    //  const press_on_right=()=>{
+    //     console.log("press on right button");
+    //     //rechercher dans la liste ou est l'active element
+    //      //l'incrementer
+    // }
     const radio_change=(e)=>{
         setSelectedRadio(e.target.value);
         // setRangeValue(0);
@@ -141,7 +148,7 @@ const Projects = () => {
             </ul>
             </div> 
 
-            <div className="cancel">
+            <div className="cancel" id="cancel">
                 {selectedRadio && <h5 onClick = {() => setSelectedRadio("")}> cancel selection</h5> }
             </div>
 
@@ -155,6 +162,7 @@ const Projects = () => {
 
                     <li className="preview" style={{height: projects.css_size}}>
                     <img src={projects.path+projects.img} alt={projects.name} style={{height: projects.css_size}}/>
+                    <div className="project_logo"></div>
                     <div className="data-container" onClick={(e)=> {elem_click(projects)} }  >
                         <ul>
                             <li>{projects.name} </li>

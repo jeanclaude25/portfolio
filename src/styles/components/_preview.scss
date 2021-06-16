@@ -34,7 +34,19 @@
         height:150px;
         width:160px;
     }
-
+    .project_logo{
+        position: absolute;
+        top:0;
+        opacity: 1;
+        width:100%;
+        height: 100%;
+        background-color: yellow;
+        background-image: url("../../assets/logo/unity.png");
+        object-fit: cover;
+    }
+    .project_logo.video{
+        background-image: url("../../assets/logo/video_logo.png");
+    }
     .data-container{
         position: absolute;
         top:0;

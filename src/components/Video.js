@@ -11,8 +11,8 @@ class Video extends React.Component {
          vid(a){ let json_video;try{json_video = a;}catch(e){json_video = ""};
                     let liste = [];
                     try{
-                    for(var i in a){
-                        liste.push(a[i]);
+                    for(var i in json_video){
+                        liste.push(json_video[i]);
                         };}catch(e){liste.push("");}
 
                     return liste

@@ -1,7 +1,7 @@
 [
 	{
 	"path":"https://www.jeanclaudestephane.com/projects/3d_render/1-pompe/",
-	"img":"preview.jpg",
+	"img":"preview_light.jpg",
 	"name":"Shoes",
 	"categorie":"3d render",
 	"description":{
@@ -44,7 +44,7 @@
 	
 	{
 	"path":"https://www.jeanclaudestephane.com/projects/3d_render/2-archi/",
-	"img":"preview.jpg",
+	"img":"preview_light.jpg",
 	"name":"Desk",
 	"categorie":"3d render",
 	"description":{
@@ -83,7 +83,7 @@
 
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/3d_render/3-beauty/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"Cosmetic",
 		"categorie":"3d render",
 		"description":{
@@ -124,7 +124,7 @@
 
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/3d_render/5-planete/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"planet",
 		"categorie":"3d render",
 		"description":{
@@ -163,7 +163,7 @@
 
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/3d_render/7-plage/",
-		"img":"dune_composited.jpg",
+		"img":"preview_light.jpg",
 		"name":"beach",
 		"categorie":"3d render",
 		"description":{
@@ -206,7 +206,7 @@
 
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/3d_render/chair/",
-		"img":"color_chair_2.jpg",
+		"img":"preview_light.jpg",
 		"name":"chair",
 		"pro":false,
 		"categorie":"3d render",
@@ -247,7 +247,7 @@
 
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/3d_render/house/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"imgApp":"app.jpg",
 		"name":"house",
 		"categorie":"3d render",
@@ -308,7 +308,7 @@
 					
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/3d_render/impika/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"printer",
 		"categorie":"3d render",
 		"description":{
@@ -352,7 +352,7 @@
 
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/3d_render/roller/",
-		"img":"roller_color_2_2.jpg",
+		"img":"preview_light.jpg",
 		"name":"roller",
 		"categorie":"3d render",
 		"description":{
@@ -397,7 +397,7 @@
 
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/3d_render/fan/",
-		"img":"stephane-jeanclaude-0130.jpg",
+		"img":"preview_light.jpg",
 		"name":"fan design",
 		"categorie":"3d render",
 		"description":{
@@ -435,7 +435,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/3d_render/vehicles/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"vehicles",
 		"categorie":"3d render",
 		"description":{
@@ -484,7 +484,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/couverture/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"Street Workout",
 		"categorie":"socialCover",
 		"description":{
@@ -520,7 +520,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/draw/lion/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"lion",
 		"categorie":"2d anim",
 		"description":{
@@ -564,7 +564,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/photo/photomontage/",
-		"img":"mcfly.jpg",
+		"img":"preview_light.jpg",
 		"name":"ride",
 		"categorie":"photoMontage",
 		"description":{
@@ -603,7 +603,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/2D/alpille/",
-		"img":"Alpille_preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"Alpille",
 		"categorie":"Poster",
 		"description":{
@@ -612,6 +612,9 @@
 			"extension":".jpg",
 			"images":{
 				"id0":"Alpille_preview"
+			},
+			"imfreeext":{
+				"id0":"transparent_flyers.png"
 			}
 		},
 		"technique":"",
@@ -639,7 +642,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/2D/hair/",
-		"img":"CdV-Hair 2000-B.png",
+		"img":"preview_light.jpg",
 		"name":"Hair",
 		"categorie":"Poster",
 		"description":{
@@ -677,7 +680,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/2D/wtc/",
-		"img":"CdV_preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"World Trade Center",
 		"categorie":"Greeting card",
 		"description":{
@@ -713,7 +716,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/2D/fidbac/",
-		"img":"Fidbac_preview.png",
+		"img":"preview_light.jpg",
 		"name":"Fidbac",
 		"categorie":"pictogram",
 		"description":{
@@ -751,7 +754,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/2D/choco/",
-		"img":"choco_preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"Salon du chocolat",
 		"categorie":"Poster",
 		"description":{
@@ -787,7 +790,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/2D/rodolphe/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"Rodolphe Mazoyer",
 		"categorie":"Poster",
 		"description":{
@@ -826,7 +829,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/2D/propal/",
-		"img":"propal_preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"Plans d'actions régionales",
 		"categorie":"Poster",
 		"description":{
@@ -862,7 +865,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/affiches/1-affiche decath/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"Decathlon",
 		"categorie":"Poster",
 		"description":{
@@ -899,7 +902,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/affiches/2-LFM/",
-		"img":"lfm_photo.jpg",
+		"img":"preview_light.jpg",
 		"name":"Laurent Favre Mot",
 		"categorie":"Poster",
 		"description":{
@@ -939,7 +942,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/affiches/5-udac/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"Udac 66",
 		"categorie":"Poster",
 		"description":{
@@ -977,7 +980,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/affiches/6-camargue/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"camargue",
 		"categorie":"Poster",
 		"description":{
@@ -987,6 +990,9 @@
 			"images":{
 				"id0":"preview",
 				"id1":"6-camargue flyers2"
+			},
+			"imfreeext":{
+				"id0":"transparent_flyers.png"
 			}
 		},
 		"technique":"",
@@ -1014,7 +1020,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/affiches/9-etiquette/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"confiture",
 		"categorie":"Poster",
 		"description":{
@@ -1054,7 +1060,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/cartes/ambiance/",
-		"img":"ambiance2-full.jpg",
+		"img":"preview_light.jpg",
 		"name":"cheque cadeau",
 		"categorie":"Gift card",
 		"description":{
@@ -1091,7 +1097,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/cartes/fruitpop/",
-		"img":"fruitpop.jpg",
+		"img":"preview_light.jpg",
 		"name":"Fruit et légumes",
 		"categorie":"Poster",
 		"description":{
@@ -1127,7 +1133,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/terea/",
-		"img":"tereaVoeux.jpg",
+		"img":"preview_light.jpg",
 		"name":"Terea",
 		"categorie":"Greeting card",
 		"description":{
@@ -1167,7 +1173,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/enseigne/jamila/",
-		"img":"jamila-full.jpg",
+		"img":"preview_light.jpg",
 		"name":"Jamila assurance",
 		"categorie":"Enseigne",
 		"description":{
@@ -1175,7 +1181,8 @@
 			"infos":"Enseigne réalisée lors de mon stage de fin d'étude",
 			"extension":".jpg",
 			"images":{
-				"id0":"jamila-full"
+				"id0":"jamila-full",
+				"id1":"ljamila-full"
 			}
 		},
 		"technique":"",
@@ -1203,7 +1210,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/affiches/le_48/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"Centre le 48",
 		"categorie":"Affiche",
 		"description":{
@@ -1244,9 +1251,9 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/enseigne/le_48/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"Centre le 48",
-		"categorie":"Affiche",
+		"categorie":"Enseigne",
 		"description":{
 			"path":"visuel/",
 			"infos":"Réalisation, simulation de jour et nuit et impression d'une devanture",
@@ -1281,7 +1288,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/identity/flashgame/",
-		"img":"preview.png",
+		"img":"preview_light.jpg",
 		"name":"Flashgame66",
 		"categorie":"Identity",
 		"description":{
@@ -1326,7 +1333,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/identity/meteoFrance/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"Nuclear Meteo",
 		"categorie":"Website interface",
 		"description":{
@@ -1363,7 +1370,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/cegelec/",
-		"img":"cegelec.jpg",
+		"img":"preview_light.jpg",
 		"name":"Cegelec",
 		"categorie":"Synoptique",
 		"description":{
@@ -1399,7 +1406,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/game/bot_runner/",
-		"img":"3.jpg",
+		"img":"preview_light.jpg",
 		"name":"Bot runner",
 		"categorie":"Game",
 		"description":{
@@ -1439,7 +1446,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/videos/drone/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"Drone edit",
 		"categorie":"Video",
 		"description":{
@@ -1477,7 +1484,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/videos/roller/summer_edit/",
-		"img":"sum_preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"roller summer edit",
 		"categorie":"video",
 		"description":{
@@ -1515,7 +1522,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/videos/roller/winter_edit/",
-		"img":"winter_edit.jpg",
+		"img":"preview_light.jpg",
 		"name":"roller winter edit",
 		"categorie":"video",
 		"description":{
@@ -1553,7 +1560,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/videos/showreel/",
-		"img":"Demoreel_2013.jpg",
+		"img":"preview_light.jpg",
 		"name":"showreel 2013",
 		"categorie":"showreel",
 		"description":{
@@ -1815,7 +1822,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/videos/sport/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"Street Workout contest",
 		"categorie":"video",
 		"description":{
@@ -1853,7 +1860,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/videos/roller/cnr_edit/",
-		"img":"cnr_edit_preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"clic n roll edit",
 		"categorie":"video",
 		"description":{
@@ -1891,7 +1898,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/videos/roller/edit_2014/",
-		"img":"edit_2014_preview.jpg",
+		"img":"preview_light.jpg",
 		"name":"roller edit",
 		"categorie":"video",
 		"description":{
@@ -1929,7 +1936,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/website/beauty/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"imgApp":"app.jpg",
 		"name":"Salon de coiffure",
 		"categorie":"Website interface",
@@ -1966,7 +1973,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/website/nouvelleVersion/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"imgApp":"app.jpg",
 		"name":"Galerie d'artiste",
 		"categorie":"Website interface",
@@ -2003,7 +2010,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/website/Site_BJM3D/",
-		"img":"preview.jpg",
+		"img":"preview_light.jpg",
 		"imgApp":"app.jpg",
 		"name":"Portfolio",
 		"categorie":"WebSite interface",
@@ -2040,7 +2047,7 @@
 	},
 	{
 		"path": "https://www.jeanclaudestephane.com/projects/website/NR/",
-		"img":"NR_preview.jpg",
+		"img":"preview_light.jpg",
 		"imgApp":"app.jpg",
 		"name":"Nouveau riche music",
 		"categorie":"Website interface",
@@ -2077,7 +2084,7 @@
 	},
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/videos/roller/onoda_roller/",
-		"img":"onoda.jpg",
+		"img":"preview_light.jpg",
 		"name":"onoda roller edit",
 		"categorie":"video",
 		"description":{

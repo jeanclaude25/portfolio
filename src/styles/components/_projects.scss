@@ -1,6 +1,9 @@
 .projects{
-    // height:100px;
-    // overflow: auto;
+    // height:20px;
+    // overflow: none;
+    width:100%;
+    // justify-content: center;
+    
     .sort-container{
         display:flex;
         // grid-template-columns: 20% 80%;
@@ -10,10 +13,11 @@
         // color: $color-1;
         // box-shadow: 0 2px 2px rgba(51,51,51,0.3);
         z-index: 25;
-        position: absolute;
-        top:11%;
+        position: relative;
+        top:-50px;
         width:100%;
-        
+        justify-content: center;
+        font-size: 1em;
 
         ul {
             display: flex;
@@ -24,7 +28,8 @@
 
             input[type="radio"]{
                 transform: translate(-5px, 1px);
-                
+                // width: 1em;
+                // height: 1em;
                 
             }
         }
@@ -38,9 +43,37 @@
             background: $color-4;
         }
     }
+    @media only screen and (max-width: 700px) {
+        /* For mobile phones: */
+        .sort-container{
+            font-size: 0.8em;
+            // height:50px;
+            li{
+                padding: 2px;
+                margin-left: 8px;
+                margin-right: 0px;
+            }
+
+            ul{
+            input[type="radio"]{
+                transform: translate(-0.5px, 0px);
+                width: 0.5em;
+                height: 0.5em;
+                // visibility: hidden;
+                
+            }
+        }
+
+        }
+        
+        
+ }
     .cancel{
-        margin: 20px auto 30px;
-        width:100%;
+        // position: fixed;
+        margin: -40px auto 0px;
+        width:10%;
+        height: 5%;
+        z-index: 80;
 
         h5{
             border:1px $color-3 solid;
@@ -53,8 +86,9 @@
             
 
             &:hover{
-                background: $color-1;
-                border-color: $color-1;
+                background: $color-3;
+                border-color: $color-3;
+                color: $color-2;
             }
     
         }
@@ -66,6 +100,7 @@
         flex-wrap: wrap;
         transition: all 1s;
         width:100%;
+        justify-content: center;
         // background: $color-3;
         
     }
@@ -74,10 +109,12 @@
         animation-duration: 1s;
         overflow: auto;
         animation-fill-mode: forwards;
+        position:fixed;
         // animation-delay: 2s;
         // animation-iteration-count: 3;
 
     }
+    
     .projects-list.deselect{
         animation-name: opening;
         animation-duration: 1s;
@@ -88,8 +125,18 @@
     @keyframes opening {
         0%   {width:100%;}
         25%  {width:100%;opacity:0;}
-        50%  {opacity:0;width:20%;height:500px;}
-        100% {opacity:1;width:20%;height:500px;}
+        50%  {opacity:0;width:20%;height:100%;}
+        100% {opacity:1;width:20%;height:100%;}
       }
+
+      @media only screen and (max-width: 700px) {
+        .projects-list.select{
+            visibility: hidden;
+            display: none;
+        }
+        .cancel.select{
+            display: none;
+        }
+    }
 
 }

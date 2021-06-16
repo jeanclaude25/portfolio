@@ -15,17 +15,18 @@ class Description extends React.Component {
     images(a){ let images;try{images = a.description.images;}catch(e){images = ""};
         let liste = [];
         try{
-        for(var i in a.description.images){
-            liste.push(a.description.images[i]);
-            };}catch(e){liste.push("");}
+        for(var i in images){
+            liste.push(images[i]);
+            };
+            }catch(e){liste.push("");}
 
         return liste
     }
     imagesfree(a){ let images;try{images = a.description.imfreeext;}catch(e){images = ""};
         let liste = [];
         try{
-        for(var i in a.description.imfreeext){
-            liste.push(a.description.imfreeext[i]);
+        for(var i in images){
+            liste.push(images[i]);
             };}catch(e){liste.push("");}
 
         return liste
@@ -44,7 +45,8 @@ class Description extends React.Component {
                     {this.images(activeElement).map((im)=>{
                     return(
                         
-                         <img src={activeElement.path+
+                         <img alt={activeElement.name} 
+                         src={activeElement.path+
                             activeElement.description.path+
                             im+
                             activeElement.description.extension} key={im}/>
@@ -55,7 +57,7 @@ class Description extends React.Component {
                     {this.imagesfree(activeElement).map((imfree)=>{
                     return(
                         
-                         <img src={activeElement.path+
+                         <img alt={activeElement.name} src={activeElement.path+
                             activeElement.description.path+
                             imfree} key={imfree}/>
                     )
@@ -66,7 +68,7 @@ class Description extends React.Component {
                  {/* {activeElement.description.gifs && } */}
                     <p>.</p><p></p>
 
-                {activeElement.link!=undefined && <a href = {activeElement.path+activeElement.link} target ="viewer"><img src= {activeElement.path+activeElement.imgApp} key={activeElement.imgApp}/></a> }
+                {activeElement.link!==undefined && <a href = {activeElement.path+activeElement.link} target ="viewer"><img alt={activeElement.name} src={activeElement.path+activeElement.imgApp} key={activeElement.imgApp}/></a> }
                 {/* {activeElement.link==undefined && <img src= {activeElement.img} />} */}
                 
 

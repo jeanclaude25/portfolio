@@ -1,13 +1,14 @@
 .button{
     // background-color: rgb(141, 141, 141);
-    position:absolute;
+    position:fixed;
     border-radius: 5em;
     // border-style: outset;
     // border-width: 0.1em;
     // border-color: aqua;
     width:3em;
     height:3em;
-    z-index: 25;
+    z-index: 50;
+    background-color: rgba(255, 255, 255, 0.349);
 
     &:hover{
         background-color: grey;
@@ -29,4 +30,9 @@
     right:2%;
     top:20%;
     background-image: url("../../assets/icons/outline_highlight_off_black_24dp.png");
+}
+@media only screen and (max-width: 700px) {
+    #button_exit{
+        top:30%;
+    }
 }
