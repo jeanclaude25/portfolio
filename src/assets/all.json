@@ -2165,5 +2165,42 @@
 				"resolution":"2048x1152",
 				"renderEngine":"cycles"
 				}
+	},
+	{
+		"path":"https://www.jeanclaudestephane.com/projects/webgl/6/",
+		"img":"vignette.jpg",
+		"imgApp":"app.jpg",
+		"name":"Cadre photo interactif",
+		"categorie":"interactive web app",
+		"link":"index.html",
+		"description":{
+			"path":"visuel/",
+			"infos":"éditeur interactif de cadre photo avec chargement de profil, d'images et changement de matériaux",
+			"extension":".jpg",
+			"images":{
+			}
+		},
+		"technique":"webgl",
+		"pro":false,
+		"date":{
+				"day":"14",
+				"month":"07",
+				"year":"2021"
+				},
+		"keywords":"3d interactive webgl web b4w application cadre photo bilder",
+		"software":{
+					"modelling":"blender",
+					"texturing":"blender",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
 	}
 ]
