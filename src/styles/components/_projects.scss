@@ -34,13 +34,13 @@
             }
         }
         li{
-            background: $color-3;
+            background: var(--color-3);
             padding: 8px;
             margin-left: 8px;
-            color: $color-2;
+            color: var(--color-2);
         }
         li:hover{
-            background: $color-4;
+            background: var(--color-4);
         }
     }
     @media only screen and (max-width: 700px) {
@@ -74,9 +74,10 @@
         width:10%;
         height: 5%;
         z-index: 80;
+        color: var(--color-4);
 
         h5{
-            border:1px $color-3 solid;
+            border:1px var(--color-3) solid;
             text-align: center;
             width:180px;
             margin: 0 auto;
@@ -86,9 +87,9 @@
             
 
             &:hover{
-                background: $color-3;
-                border-color: $color-3;
-                color: $color-2;
+                background: var(--color-3);
+                border-color: var(--color-3);
+                color: var(--color-2);
             }
     
         }

@@ -1,0 +1,40 @@
+.DarkToggle.react-toggle {
+	position: absolute;
+    z-index: 10;
+    right: 5px;
+    top: 10px;
+
+	.react-toggle-thumb {
+		border: none;
+	}
+
+	&.react-toggle .react-toggle-thumb,
+	&.react-toggle:active:not(.react-toggle--disabled) .react-toggle-thumb {
+		box-shadow: 0 0 2px 2px var(--color-2);
+	}
+
+	.react-toggle-track,
+	&.react-toggle--checked .react-toggle-track,
+	&.react-toggle--checked:hover:not(.react-toggle--disabled) .react-toggle-track,
+	&.react-toggle:hover:not(.react-toggle--disabled) .react-toggle-track {
+		background: var(--color-4);
+	}
+
+
+	.react-toggle-track-check {
+		left: 6px;
+	}
+
+	.react-toggle-track-x {
+		right: 12px;
+	}
+
+	.react-toggle-track-check,
+	.react-toggle-track-x {
+		font-size: 13px;
+		line-height: 2em;
+		height: 100%;
+		text-shadow: 0 0 var(--color-2);
+		color: transparent;
+	}
+}

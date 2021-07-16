@@ -9,13 +9,14 @@
         left:20px;
         // padding: 10px;
         position: fixed;
+        color: var(--color-4);
         
     }
     .nav-active{
         &::after{
             content:"";
             height: 2px;
-            background: $color-4;
+            background: var(--color-4);
             display:flex;
             justify-content: center;
             align-items: center;

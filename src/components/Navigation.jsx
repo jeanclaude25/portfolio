@@ -1,17 +1,19 @@
-import React from 'react';
-import { NavLink } from "react-router-dom";
+import React from 'react'
+import { NavLink } from 'react-router-dom'
+import { DarkMode } from './DarkMode'
 
 const Navigation = () => {
-    return (
-        <div className="navigation">
-            <NavLink exact to="/" activeClassName="nav-active">
-                Portfolio
-            </NavLink>
-            {/* <NavLink exact to="/a-propos" activeClassName="nav-active">
+  return (
+    <div className='navigation'>
+      <NavLink exact to='/' activeClassName='nav-active'>
+        Portfolio
+      </NavLink>
+      <DarkMode />
+      {/* <NavLink exact to="/a-propos" activeClassName="nav-active">
                 A propos
             </NavLink> */}
-        </div>
-    );
-};
+    </div>
+  )
+}
 
-export default Navigation;
+export default Navigation
