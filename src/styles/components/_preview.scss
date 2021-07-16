@@ -70,7 +70,7 @@
         }
 
         ul{
-            color: $color-2;
+            color: var(--color-2);
             padding-top: 5px;
             display: grid;
             height: 100%;
@@ -79,6 +79,9 @@
             transition: 0.3s;
             transform: scaleY(0.3);
             z-index: 20;
+            @include whenDark{
+             color: var(--color-4);
+            }
         }
 
         &:after{
@@ -108,7 +111,10 @@
 
         &:nth-child(1){
             font-weight: bold;
-            color: $color-2;
+            color: var(--color-2);
+            @include whenDark{
+                color: var(--color-4);
+            }
         }
     }
 

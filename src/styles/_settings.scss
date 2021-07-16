@@ -15,20 +15,29 @@ $color-4: rgb(32, 35, 42);
 }
 
 body{
-margin: 0.4rem auto;
-max-width: 1296px;
-font-family: $fonts-1;
-color: $color-4;
+    --color-1: #{$color-1};
+    --color-2: #{$color-2};
+    --color-3: #{$color-3};
+    --color-4: #{$color-4};
+    margin: 0.4rem auto;
+    max-width: 1296px;
+    font-family: $fonts-1;
+    background-color: var(--color-2);
 
+    @include whenDark{
+     --color-2: #{$color-4};
+     --color-4: #{$color-2};
+     --color-3: #{$color-2}
+    }
 }
 li{
     list-style-type: none;
 }
 a{
     text-decoration: none;
-    color: $color-3;
+    color: var(--color-3);
     cursor: pointer;
 }
 a:visited{
-    color: $color-3;
+    color: var(--color-3);
 }
