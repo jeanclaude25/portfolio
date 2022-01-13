@@ -23,6 +23,21 @@ function contact(){
 								};
 					}catch(e){};
 				try{
+						if(github){
+									const aref=document.createElement('a');
+									aref.href=github;
+									aref.target="_blank";
+									const git=document.createElement('img');
+									git.src=img_folder+"default/github.png";
+									git.alt="Github";
+									git.title="Github";
+									git.id="contactGithub";
+									git.className="iconeContact";
+									aref.appendChild(git);
+									footer.appendChild(aref);
+									};
+						}catch(e){};
+				try{
 					if(blendswap){
 							    const aref=document.createElement('a');
 								aref.href=blendswap;

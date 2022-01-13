@@ -7,7 +7,7 @@
 //contact
 const mail="mailto:jeanclaude.stephane@hotmail.fr";
 //const facebook="https://www.facebook.com/jeanclaude.stephane.14/";
-
+const github = "https://github.com/jeanclaude25";
 const instagram="https://www.instagram.com/jeanclaude_stephane_3d/";
 //const dribbble="https://dribbble.com/JStephane";
 
