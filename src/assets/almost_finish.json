@@ -1,13 +1,13 @@
 {
-    "path":"https://www.jeanclaudestephane.com/projects/webgl/7/",
+    "path":"https://www.jeanclaudestephane.com/projects/webgl/8/",
     "img":"vignette.jpg",
     "imgApp":"app.jpg",
-    "name":"3d interactive Virtual visit",
+    "name":"3d interactive Map",
     "categorie":"interactive web app",
     "link":"index.html",
     "description":{
         "path":"visuel/",
-        "infos":"Une visite virtuelle à la premiere personne permettant d'ouvrir des oevres numériques",
+        "infos":"Une carte interactive de l'Allemagne",
         "extension":".jpg",
         "images":{
         }
@@ -15,11 +15,11 @@
     "technique":"webgl",
     "pro":true,
     "date":{
-            "day":"16",
-            "month":"08",
-            "year":"2021"
+            "day":"18",
+            "month":"01",
+            "year":"2022"
             },
-    "keywords":"3d interactive webgl web b4w application art fpp photo bilder pro art galerie virtual visit",
+    "keywords":"3d interactive webgl web three.js application art fpp carte pro map",
     "software":{
                 "modelling":"blender",
                 "texturing":"blender",

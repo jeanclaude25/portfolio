@@ -2,11 +2,11 @@
 	{
 	"path":"https://www.jeanclaudestephane.com/projects/3d_render/1-pompe/",
 	"img":"preview_light.jpg",
-	"name":"Shoes",
+	"name":"Pair of shoes",
 	"categorie":"3d render",
 	"description":{
 					"path":"visuel/",
-					"infos":"Modelisation en 4h sur Blender avec des courbes",
+					"infos":"4h modeling on Blender with curves",
 					"extension":".jpg",
 					"images":{
 						"id0":"1",
@@ -49,7 +49,7 @@
 	"categorie":"3d render",
 	"description":{
 		"path":"visuel/",
-		"infos":"Modelisation réaliste et rendu d'un bureau de travail",
+		"infos":"Realistic modeling and rendering of a working office",
 		"extension":".jpg",
 		"images":{
 			"id0":"1",
@@ -88,7 +88,7 @@
 		"categorie":"3d render",
 		"description":{
 			"path":"visuel/",
-			"infos":"Modelisation de produits cosmétiques",
+			"infos":"Modeling of cosmetic products",
 			"extension":".jpg",
 			"images":{
 				"id0":"1",
@@ -125,11 +125,11 @@
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/3d_render/5-planete/",
 		"img":"preview_light.jpg",
-		"name":"planet",
+		"name":"Earth",
 		"categorie":"3d render",
 		"description":{
 			"path":"visuel/",
-			"infos":"Modelisation d'une planète",
+			"infos":"Modeling a planet",
 			"extension":".jpg",
 			"images":{
 				"id0":"1",
@@ -164,11 +164,11 @@
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/3d_render/7-plage/",
 		"img":"preview_light.jpg",
-		"name":"beach",
+		"name":"Beach",
 		"categorie":"3d render",
 		"description":{
 						"path":"visuel/",
-						"infos":"Modelisation réaliste et simulation de fluide",
+						"infos":"Realistic modeling of a beach and simulation of fluids, scum and bubbles.",
 						"extension":".jpg",
 						"images":{
 							"id0":"1",
@@ -187,7 +187,7 @@
 				"month":"01",
 				"year":"2014"
 				},
-		"keywords":"particle simulation water dynamicpaint all-aspect modelling texturing rendering beach realistic 3d",
+		"keywords":"particle simulation foam bubble water dynamicpaint all-aspect modelling texturing rendering beach realistic 3d",
 		"software":{
 					"modelling":"blender 2.6x",
 					"texturing":"blender 2.6x",
@@ -212,7 +212,7 @@
 		"categorie":"3d render",
 		"description":{
 			"path":"visuel/",
-			"infos":"Une chaise pour integrer dans unity",
+			"infos":"A chair to integrate in unity",
 			"extension":".jpg",
 			"images":{
 				"id0":"1",
@@ -249,11 +249,11 @@
 		"path":"https://www.jeanclaudestephane.com/projects/3d_render/house/",
 		"img":"preview_light.jpg",
 		"imgApp":"app.jpg",
-		"name":"house",
+		"name":"House",
 		"categorie":"3d render",
 		"description":{
 			"path":"visuel/",
-			"infos":"Mon bac à sable qui m'a permis d'élaborer des scripts de gestion d'instances",
+			"infos":"My sandbox that allowed me to develop instance management scripts",
 			"extension":".jpg",
 			"images":{
 				"id0":"house_clay1_2",
@@ -309,11 +309,11 @@
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/3d_render/impika/",
 		"img":"preview_light.jpg",
-		"name":"printer",
+		"name":"Printer",
 		"categorie":"3d render",
 		"description":{
 			"path":"visuel/",
-			"infos":"Colaboration avec Bruno Meunier infographiste pour réaliser ce printer, ma partie: la création des scripts en python d'automatisation et de nettoyage des obj et la réalisation des shaders et des textures",
+			"infos":"Collaboration with Bruno Meunier graphic designer to realize this printer, my part: the creation of scripts in python for automation and cleaning of obj and the realization of shaders and textures",
 			"extension":".jpg",
 			"images":{
 				"id0":"icp1",
@@ -353,11 +353,11 @@
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/3d_render/roller/",
 		"img":"preview_light.jpg",
-		"name":"roller",
+		"name":"Inline skate",
 		"categorie":"3d render",
 		"description":{
 			"path":"visuel/",
-			"infos":"Modélisation et rendu d'un roller",
+			"infos":"Modeling and rendering of an inline skate",
 			"extension":".jpg",
 			"images":{
 				"id0":"roller_cgrey_2_2",
@@ -398,11 +398,11 @@
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/3d_render/fan/",
 		"img":"preview_light.jpg",
-		"name":"fan design",
+		"name":"Fan design",
 		"categorie":"3d render",
 		"description":{
 			"path":"visuel/",
-			"infos":"Design, Modélisation et rendu réaliste d'un ventilateur",
+			"infos":"Design, Modeling and realistic rendering of a fan",
 			"extension":".jpg",
 			"images":{
 				"id0":"stephane-jeanclaude-0130",
@@ -436,11 +436,11 @@
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/3d_render/vehicles/",
 		"img":"preview_light.jpg",
-		"name":"vehicles",
+		"name":"Vehicles Serie",
 		"categorie":"3d render",
 		"description":{
 			"path":"visuel/",
-			"infos":"Modélisation de vehicules pour le film Dilili à Paris de Michel Ocelot",
+			"infos":"Modeling of vehicles for the movie Dilili in Paris by Michel Ocelot",
 			"extension":".png",
 			"images":{
 				"id0":"talbot",
@@ -489,7 +489,7 @@
 		"categorie":"socialCover",
 		"description":{
 			"path":"visuel/",
-			"infos":"Design, modélisation et rendu tous les aspects",
+			"infos":"Design, modeling and rendering all aspects",
 			"extension":".jpg",
 			"images":{
 				"id0":"1"
@@ -521,11 +521,11 @@
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/draw/lion/",
 		"img":"preview_light.jpg",
-		"name":"lion",
+		"name":"Lion",
 		"categorie":"2d anim",
 		"description":{
 			"path":"visuel/",
-			"infos":"Création des images d'une web série de contes pour enfants. Travail sur du dessin de mouvement et du timing. Génération mixte des images, mélangeant dessin et vectoriel. De la 2d dans un espace 3d. ",
+			"infos":"Creation of images for a web series of children's stories. Worked on movement drawing and timing. Mixed generation of images, mixing drawing and vector. 2d in a 3d space. ",
 			"extension":".jpg",
 			"images":{
 				"id0":"le_lion",
@@ -565,11 +565,11 @@
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/photo/photomontage/",
 		"img":"preview_light.jpg",
-		"name":"ride",
+		"name":"Ride",
 		"categorie":"photoMontage",
 		"description":{
 			"path":"visuel/",
-			"infos":"Sur ce projet, il fallait modifier le cadrage pour avoir le sol et le ciel sur la même photo. J'ai réalisé un cam mapping car les deux images sources n'avait pas le même angle et c'était plus simple de faire une clean plate et de remettre par la suite les poteaux en premier plan. Le ciel est procédural et peut être animé.",
+			"infos":"On this project, it was necessary to modify the framing to have the ground and the sky on the same photo. I made a cam mapping because the two source images did not have the same angle and it was easier to make a clean flat and then put the poles in the foreground. The sky is procedural and can be animated.",
 			"extension":".jpg",
 			"images":{
 				"id0":"mcfly1",
@@ -647,7 +647,7 @@
 		"categorie":"Poster",
 		"description":{
 			"path":"visuel/",
-			"infos":"Une affiche crée lors de mon stage en infographie",
+			"infos":"A poster created during my internship in computer graphics",
 			"extension":".jpg",
 			"images":{
 			},
@@ -685,7 +685,7 @@
 		"categorie":"Greeting card",
 		"description":{
 			"path":"visuel/",
-			"infos":"Affiche réalisée lors de mon stage de fin d'étude",
+			"infos":"Poster made during my internship",
 			"extension":".jpg",
 			"images":{
 				"id0":"CdV_preview"
@@ -721,7 +721,7 @@
 		"categorie":"pictogram",
 		"description":{
 			"path":"visuel/",
-			"infos":"Pictogrammes réalisés lors de mon stage de fin d'étude",
+			"infos":"Pictograms made during my internship",
 			"extension":".jpg",
 			"images":{
 			},
@@ -759,7 +759,7 @@
 		"categorie":"Poster",
 		"description":{
 			"path":"visuel/",
-			"infos":"Affiche réalisé lors d'un exercice d'étude",
+			"infos":"Poster made during a study exercise",
 			"extension":".jpg",
 			"images":{
 				"id0":"choco_preview"
@@ -795,7 +795,7 @@
 		"categorie":"Poster",
 		"description":{
 			"path":"visuel/",
-			"infos":"Affiche réalisée lors de mon stage de fin d'étude, rendu 3d également",
+			"infos":"Poster made during my internship, 3d rendering also",
 			"extension":".jpg",
 			"images":{
 				"id0":"preview",
@@ -834,7 +834,7 @@
 		"categorie":"Poster",
 		"description":{
 			"path":"visuel/",
-			"infos":"Affiche réalisée lors de mon stage de fin d'étude",
+			"infos":"Poster made during my internship",
 			"extension":".jpg",
 			"images":{
 				"id0":"propal_preview"
@@ -870,7 +870,7 @@
 		"categorie":"Poster",
 		"description":{
 			"path":"visuel/",
-			"infos":"Affiche d'un vendeur roller de Decathlon",
+			"infos":"Poster of a Decathlon roller salesman",
 			"extension":".jpg",
 			"images":{
 				"id0":"preview",
@@ -907,7 +907,7 @@
 		"categorie":"Poster",
 		"description":{
 			"path":"visuel/",
-			"infos":"Affiches et enseignes réalisées lors de mon stage de fin d'étude",
+			"infos":"Posters and signs made during my internship",
 			"extension":".jpg",
 			"images":{
 				"id0":"lfm_photo",
@@ -947,7 +947,7 @@
 		"categorie":"Poster",
 		"description":{
 			"path":"visuel/",
-			"infos":"Affiche et interface de site réalisée comme exercice",
+			"infos":"Poster and site interface made as an exercise",
 			"extension":".jpg",
 			"images":{
 				"id0":"preview",
@@ -985,7 +985,7 @@
 		"categorie":"Poster",
 		"description":{
 			"path":"visuel/",
-			"infos":"Affiche et flyer réalisées comme exercice lors de mes études",
+			"infos":"Poster and flyer made as an exercise during my studies",
 			"extension":".jpg",
 			"images":{
 				"id0":"preview",
@@ -1021,11 +1021,11 @@
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/affiches/9-etiquette/",
 		"img":"preview_light.jpg",
-		"name":"confiture",
+		"name":"Marmalade",
 		"categorie":"Poster",
 		"description":{
 			"path":"visuel/",
-			"infos":"Affiche et rendu 3d",
+			"infos":"Poster and 3d rendering",
 			"extension":".jpg",
 			"images":{
 				"id0":"preview",
@@ -1042,7 +1042,7 @@
 				"month":"10",
 				"year":"2013"
 				},
-		"keywords":"packaging affiche poster print",
+		"keywords":"packaging affiche poster print jam marmalade",
 		"software":{
 					"modelling":"",
 					"texturing":"",
@@ -1061,11 +1061,11 @@
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/cartes/ambiance/",
 		"img":"preview_light.jpg",
-		"name":"cheque cadeau",
+		"name":"gift certificate",
 		"categorie":"Gift card",
 		"description":{
 			"path":"visuel/",
-			"infos":"Cheque cadeau réalisés lors de mon stage de fin d'étude",
+			"infos":"Gift vouchers made during my internship",
 			"extension":".jpg",
 			"images":{
 				"id0":"ambiance2-full",
@@ -1079,7 +1079,7 @@
 				"month":"09",
 				"year":"2014"
 				},
-		"keywords":"pro carte cadeaux cheque gift card print",
+		"keywords":"pro carte cadeaux cheque gift card print certificate",
 		"software":{
 					"modelling":"",
 					"texturing":"",
@@ -1098,11 +1098,11 @@
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/print/cartes/fruitpop/",
 		"img":"preview_light.jpg",
-		"name":"Fruit et légumes",
+		"name":"Fruit and vegetables",
 		"categorie":"Poster",
 		"description":{
 			"path":"visuel/",
-			"infos":"Affiche réalisée comme exercice d'étude",
+			"infos":"Poster made as a study exercise",
 			"extension":".jpg",
 			"images":{
 				"id0":"fruitpop"
@@ -1138,7 +1138,7 @@
 		"categorie":"Greeting card",
 		"description":{
 			"path":"visuel/",
-			"infos":"Affiche et carte de voeux réalisées lors de mon stage de fin d'étude",
+			"infos":"Poster and greeting card made during my internship",
 			"extension":".jpg",
 			"images":{
 				"id0":"tereaVoeux",
@@ -1178,7 +1178,7 @@
 		"categorie":"Enseigne",
 		"description":{
 			"path":"visuel/",
-			"infos":"Enseigne réalisée lors de mon stage de fin d'étude",
+			"infos":"Sign made during my internship at the end of my studies",
 			"extension":".jpg",
 			"images":{
 				"id0":"jamila-full",
@@ -1215,7 +1215,7 @@
 		"categorie":"Affiche",
 		"description":{
 			"path":"visuel/",
-			"infos":"Affiches et carte de visite",
+			"infos":"Posters and business cards",
 			"extension":".jpg",
 			"images":{
 				"id0":"carte_de_visite_2-1",
@@ -1256,7 +1256,7 @@
 		"categorie":"Enseigne",
 		"description":{
 			"path":"visuel/",
-			"infos":"Réalisation, simulation de jour et nuit et impression d'une devanture",
+			"infos":"Realization, simulation of day and night and printing of a frontage",
 			"extension":".jpg",
 			"images":{
 				"id0":"vitrine_jour",
@@ -1293,7 +1293,7 @@
 		"categorie":"Identity",
 		"description":{
 			"path":"visuel/",
-			"infos":"informations",
+			"infos":"A corporate identity",
 			"extension":".jpg",
 			"images":{
 				"id1":"flash",
@@ -1338,7 +1338,7 @@
 		"categorie":"Website interface",
 		"description":{
 			"path":"visuel/",
-			"infos":"Exercice d'étude, interface de site et évolution de logo",
+			"infos":"Study exercise, site interface and logo evolution",
 			"extension":".jpg",
 			"images":{
 				"id0":"preview",
@@ -1375,7 +1375,7 @@
 		"categorie":"Synoptique",
 		"description":{
 			"path":"visuel/",
-			"infos":"Création de synoptiques de visualisations pour un logiciel interne de contrôle et de sécurité",
+			"infos":"Creation of visualization mimics for an internal control and security software",
 			"extension":".jpg",
 			"images":{
 				"id0":"cegelec"
@@ -1411,7 +1411,7 @@
 		"categorie":"Game",
 		"description":{
 			"path":"visuel/",
-			"infos":"Création d'un jeux à l'occasion d'une game jam",
+			"infos":"Creation of a game during a game jam",
 			"extension":".jpg",
 			"images":{
 				"id0":"1",
@@ -1451,7 +1451,7 @@
 		"categorie":"Video",
 		"description":{
 			"path":"visuel/",
-			"infos":"Tournage et montage vidéo, focus sur la synchro son",
+			"infos":"Video shooting and editing, focus on sound sync",
 			"extension":".jpg",
 			"images":{
 			},
@@ -1485,11 +1485,11 @@
 	{
 		"path":"https://www.jeanclaudestephane.com/projects/videos/roller/summer_edit/",
 		"img":"preview_light.jpg",
-		"name":"roller summer edit",
+		"name":"Roller summer edit",
 		"categorie":"video",
 		"description":{
 			"path":"visuel/",
-			"infos":"Tournage et montage video",
+			"infos":"Filming and video editing",
 			"extension":".jpg",
 			"images":{
 			},
@@ -1527,7 +1527,7 @@
 		"categorie":"video",
 		"description":{
 			"path":"visuel/",
-			"infos":"informations",
+			"infos":"Filming and video editing",
 			"extension":".jpg",
 			"images":{
 			},
@@ -1565,7 +1565,7 @@
 		"categorie":"showreel",
 		"description":{
 			"path":"visuel/",
-			"infos":"informations",
+			"infos":"A demoreel of my 3d work 2012-2013",
 			"extension":".jpg",
 			"images":{
 			},
@@ -1605,7 +1605,7 @@
 		"link":"index.html",
 		"description":{
 			"path":"visuel/",
-			"infos":"éditeur interactif d'étiquette de bouteille de vin avec chargement d'images",
+			"infos":"interactive wine bottle label editor with image upload",
 			"extension":".jpg",
 			"images":{
 			}
@@ -1637,11 +1637,11 @@
 		"path":"https://www.jeanclaudestephane.com/projects/webgl/1/",
 		"img":"vignette.jpg",
 		"imgApp":"app.jpg",
-		"name":"Pompe a chaleur",
+		"name":"Heat pump",
 		"categorie":"interactive web app",
 		"description":{
 			"path":"visuel/",
-			"infos":"Application permettant la visualisation d'une pompe à chaleur militaire",
+			"infos":"Application for the visualization of a military heat pump",
 			"extension":".jpg",
 			"images":{
 				"id0":"uvmap"
@@ -1658,7 +1658,7 @@
 				"month":"01",
 				"year":"2015"
 				},
-		"keywords":"pro 3d interactive webgl web b4w application waterpump pump",
+		"keywords":"pro 3d interactive webgl web b4w application waterpump heat pump",
 		"software":{
 					"modelling":"blender",
 					"texturing":"blender",
@@ -1678,11 +1678,11 @@
 		"path":"https://www.jeanclaudestephane.com/projects/webgl/2/",
 		"img":"vignette.jpg",
 		"imgApp":"app.jpg",
-		"name":"Logo interactif",
+		"name":"Interactive Logo",
 		"categorie":"interactive web logo",
 		"description":{
 			"path":"visuel/",
-			"infos":"Focus sur un changement de materiel dynamique d'un objet 3d",
+			"infos":"Focus on a dynamic material change of a 3d object",
 			"extension":".jpg",
 			"images":{
 			}
@@ -1719,7 +1719,7 @@
 		"categorie":"interactive web app",
 		"description":{
 			"path":"visuel/",
-			"infos":"Application de visualisation d'un objet CAO à la topologie négligée",
+			"infos":"Application to visualize a CAD object with a neglected topology",
 			"extension":".jpg"
 		},
 		"technique":"webgl",
@@ -1754,7 +1754,7 @@
 		"categorie":"draw web app",
 		"description":{
 			"path":"visuel/",
-			"infos":"Application de dessin en Javascript pure (non fonctionnelle sur mobile actuellement)",
+			"infos":"Pure Javascript drawing application",
 			"extension":".jpg",
 			"images":{
 			}
@@ -1792,7 +1792,7 @@
 		"link":"index.html",
 		"description":{
 			"path":"visuel/",
-			"infos":"Focus sur le remplacement dynamique d'une cubemap ainsi que des déformations de vertices",
+			"infos":"Focus on dynamic cubemap replacement and vertex deformations",
 			"extension":".jpg",
 			"images":{
 			}
@@ -1827,7 +1827,7 @@
 		"categorie":"video",
 		"description":{
 			"path":"visuel/",
-			"infos":"Tournage et montage video, focus sur la synchro son et création 3d du logo de fin",
+			"infos":"Video shooting and editing, focus on sound sync and 3d creation of the end logo",
 			"extension":".jpg",
 			"images":{
 			},
@@ -1865,7 +1865,7 @@
 		"categorie":"video",
 		"description":{
 			"path":"visuel/",
-			"infos":"Tournage et montage video, focus sur la synchro son",
+			"infos":"Video shooting and editing, focus on sound sync",
 			"extension":".jpg",
 			"images":{
 			},
@@ -1942,7 +1942,7 @@
 		"categorie":"Website interface",
 		"description":{
 			"path":"visuel/",
-			"infos":"Interface de site animée uniquement en css",
+			"infos":"Site interface animated only in css",
 			"extension":".jpg",
 			"images":{
 			}
@@ -1979,7 +1979,7 @@
 		"categorie":"Website interface",
 		"description":{
 			"path":"visuel/",
-			"infos":"Interface de site réalisée sans framework",
+			"infos":"Site interface realized without framework",
 			"extension":".jpg",
 			"images":{
 			}
@@ -2016,7 +2016,7 @@
 		"categorie":"WebSite interface",
 		"description":{
 			"path":"visuel/",
-			"infos":"Creation d'une interface de site vitrine sans framework",
+			"infos":"Creation of a showcase site interface without framework",
 			"extension":".jpg",
 			"images":{
 			}
@@ -2089,7 +2089,7 @@
 		"categorie":"video",
 		"description":{
 			"path":"visuel/",
-			"infos":"informations",
+			"infos":"Video montage sponsored by onoda",
 			"extension":".jpg",
 			"images":{
 			},
@@ -2128,7 +2128,7 @@
 		"categorie":"3d render",
 		"description":{
 			"path":"visuel/",
-			"infos":"intégration 3d dans un environnement réel",
+			"infos":"3d integration in a real environment",
 			"extension":".jpg",
 			"images":{
 				"id0":"compo",
@@ -2170,12 +2170,12 @@
 		"path":"https://www.jeanclaudestephane.com/projects/webgl/6/",
 		"img":"vignette.jpg",
 		"imgApp":"app.jpg",
-		"name":"Cadre photo interactif",
+		"name":"Interactive photo frame",
 		"categorie":"interactive web app",
 		"link":"index.html",
 		"description":{
 			"path":"visuel/",
-			"infos":"éditeur interactif de cadre photo avec chargement de profil, d'images et changement de matériaux",
+			"infos":"interactive photo frame editor with profile upload, image upload and material change",
 			"extension":".jpg",
 			"images":{
 			}
@@ -2188,6 +2188,82 @@
 				"year":"2021"
 				},
 		"keywords":"3d interactive webgl web b4w application cadre photo bilder pro",
+		"software":{
+					"modelling":"blender",
+					"texturing":"blender",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+
+	{
+		"path":"https://www.jeanclaudestephane.com/projects/webgl/7/",
+		"img":"vignette.jpg",
+		"imgApp":"app.jpg",
+		"name":"3d interactive Virtual visit",
+		"categorie":"interactive web app",
+		"link":"index.html",
+		"description":{
+			"path":"visuel/",
+			"infos":"A first-person virtual tour to open digital works",
+			"extension":".jpg",
+			"images":{
+			}
+		},
+		"technique":"webgl",
+		"pro":true,
+		"date":{
+				"day":"16",
+				"month":"08",
+				"year":"2021"
+				},
+		"keywords":"3d interactive webgl web b4w application art fpp photo bilder pro art galerie virtual visit",
+		"software":{
+					"modelling":"blender",
+					"texturing":"blender",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+
+	{
+		"path":"https://www.jeanclaudestephane.com/projects/webgl/8/",
+		"img":"vignette.jpg",
+		"imgApp":"app.jpg",
+		"name":"3d interactive Map",
+		"categorie":"interactive web app",
+		"link":"index.html",
+		"description":{
+			"path":"visuel/",
+			"infos":"An interactive map of Germany",
+			"extension":".jpg",
+			"images":{
+			}
+		},
+		"technique":"webgl",
+		"pro":true,
+		"date":{
+				"day":"18",
+				"month":"01",
+				"year":"2022"
+				},
+		"keywords":"3d interactive webgl web three.js application art fpp carte pro map",
 		"software":{
 					"modelling":"blender",
 					"texturing":"blender",
