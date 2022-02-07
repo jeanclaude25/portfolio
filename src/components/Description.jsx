@@ -1,6 +1,15 @@
 import React from 'react'
 import Video from './Video'
 
+const linkLogic = (element) =>{
+  let l;
+  if(element.link.includes('https')){
+    l = element.link;
+  }else{
+    l = element.path + element.link
+  }
+  return l;
+}
 class Description extends React.Component {
   title (a) { console.log(a); let title; try { title = a.name } catch (e) { title = '' };return title }
   info (a) { let infos; try { infos = a.description.infos } catch (e) { infos = '' };return infos }
@@ -68,13 +77,10 @@ class Description extends React.Component {
         {/* {activeElement.description.gifs && } */}
         <p>.</p><p />
 
-        {activeElement.link !== undefined && <a href={activeElement.path + activeElement.link} target='viewer'><img alt={activeElement.name} src={activeElement.path + activeElement.imgApp} key={activeElement.imgApp} /></a>}
-        {/* {activeElement.link==undefined && <img src= {activeElement.img} />} */}
+        {activeElement.link !== undefined && <a href={linkLogic(activeElement)} target='viewer'><img alt={activeElement.name} src={activeElement.path + activeElement.imgApp} key={activeElement.imgApp} /></a>}
 
-        {/* <iframe src={activeElement.link} sandbox=''/> */}
-
-        {/* <div className="button" id="button_L" onClick={()=> press_on_left()}></div>
-                <div className="button" id="button_R" onClick={()=> press_on_right()}></div> */}
+        {/* {activeElement.link !== undefined && <a href={activeElement.path + activeElement.link} target='viewer'><img alt={activeElement.name} src={activeElement.path + activeElement.imgApp} key={activeElement.imgApp} /></a>} */}
+        
 
       </div>
     )

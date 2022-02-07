@@ -1730,7 +1730,7 @@
 				"month":"01",
 				"year":"2021"
 				},
-		"keywords":"interactive webgl web b4w application cao object 3d pro",
+		"keywords":"interactive webgl web b4w realistic application cao object 3d pro",
 		"software":{
 					"modelling":"blender",
 					"texturing":"blender",
@@ -2267,6 +2267,43 @@
 		"software":{
 					"modelling":"blender",
 					"texturing":"blender",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"path":"https://www.jeanclaudestephane.com/projects/webgl/9/",
+		"img":"vignette.jpg",
+		"imgApp":"app.jpg",
+		"name":"Optimisation and Shader work",
+		"categorie":"interactive web app",
+		"link":"https://www.profilerz.mokmo.solutions/",
+		"description":{
+			"path":"visuel/",
+			"infos":"mouseOver glsl shader, integration",
+			"extension":".jpg",
+			"images":{
+			}
+		},
+		"technique":"webgl",
+		"pro":true,
+		"date":{
+				"day":"30",
+				"month":"01",
+				"year":"2022"
+				},
+		"keywords":"3d shader glsl webgl web three.js application art pro",
+		"software":{
+					"modelling":"",
+					"texturing":"",
 					"post-processing":""
 					},
 		"infos":{

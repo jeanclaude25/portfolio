@@ -11,7 +11,7 @@ const Projects = () => {
     const [sortedData, setSortedData] = useState([]);
     const [playOnce, setPlayOnce] = useState(true);
     const [selectedRadio, setSelectedRadio] = useState('');
-    const radios = ['3d','print','realistic','video','web','webgl','pro']
+    const radios = ['3d','print','realistic','video','web','three.js','webgl','pro']
 
     const [activeElement, setActiveElement] = useState('');
 
