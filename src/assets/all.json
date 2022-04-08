@@ -1979,7 +1979,7 @@
 		"categorie":"Website interface",
 		"description":{
 			"path":"visuel/",
-			"infos":"Site interface realized without framework",
+			"infos":"no framework website",
 			"extension":".jpg",
 			"images":{
 			}
@@ -2248,7 +2248,7 @@
 		"imgApp":"app.jpg",
 		"name":"3d interactive Map",
 		"categorie":"interactive web app",
-		"link":"index.html",
+		"link":"https://pima.is.versuchsballon.online/deutschland",
 		"description":{
 			"path":"visuel/",
 			"infos":"An interactive map of Germany",
@@ -2285,7 +2285,7 @@
 		"imgApp":"app.jpg",
 		"name":"Optimisation and Shader work",
 		"categorie":"interactive web app",
-		"link":"https://www.profilerz.mokmo.solutions/",
+		"link":"https://www.jeanclaudestephane.com/mokmox/",
 		"description":{
 			"path":"visuel/",
 			"infos":"mouseOver glsl shader, integration",
@@ -2301,6 +2301,43 @@
 				"year":"2022"
 				},
 		"keywords":"3d shader glsl webgl web three.js application art pro",
+		"software":{
+					"modelling":"",
+					"texturing":"",
+					"post-processing":""
+					},
+		"infos":{
+				"size":"",
+				"vertex":"",
+				"triangle":"",
+				"render_time":"",
+				"render_machine":"",
+				"resolution":"",
+				"renderEngine":""
+				}
+	},
+	{
+		"path":"https://www.jeanclaudestephane.com/projects/webgl/10/",
+		"img":"vignette.jpg",
+		"imgApp":"app.jpg",
+		"name":"The Live Office",
+		"categorie":"interactive web app",
+		"link":"https://www.jeanclaudestephane.com/projects/webgl/10/",
+		"description":{
+			"path":"visuel/",
+			"infos":"glsl shader work to move trees, water and shadows...",
+			"extension":".jpg",
+			"images":{
+			}
+		},
+		"technique":"webgl",
+		"pro":true,
+		"date":{
+				"day":"08",
+				"month":"04",
+				"year":"2022"
+				},
+		"keywords":"2d 3d shader glsl webgl web three.js application art pro",
 		"software":{
 					"modelling":"",
 					"texturing":"",
